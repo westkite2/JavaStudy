@@ -4,4 +4,3 @@ INDEX VERSION 1.131+C:\Users\westk\Documents\JavaStudy\.metadata\.plugins\org.ec
 683747716.index
 3248655537.index
 1865797976.index
-3064314919.index
